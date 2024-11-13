@@ -1,0 +1,51 @@
+.main-title {
+    color: red;
+}
+/* Стили для навигационных ссылок */
+.nav-list .link {
+    color: green; /* Цвет обычных ссылок */
+}
+
+/* Стили для специальной ссылки */
+.nav-list .special-link {
+    color: blue; /* Цвет специальной ссылки */
+}
+
+/* Стили для желтой ссылки */
+.nav-list li:nth-child(3) a {
+    color: yellow; /* Цвет третьей ссылки */
+}
+
+#first-post p{
+    color: orange;
+}
+
+.post p {
+    color: purple;
+}
+.widget h3 {
+    color: rgb(220, 14, 124);
+}
+.color-list li:nth-child(1){
+    color: rgb(89, 89, 89);
+}
+.color-list li:nth-child(2){
+    color: rgb(56, 27, 4);
+}
+
+.important-widget h3{
+    color: rgb(109, 5, 26);
+}
+.note {
+    color: rgb(109, 5, 26);
+}
+
+#name {
+    color: white;
+    background: black;
+}
+
+.submit-btn {
+    background: black;
+    color: rgb(192, 192, 192);
+}
